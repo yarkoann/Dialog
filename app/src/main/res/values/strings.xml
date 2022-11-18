@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Яровенко Анна</string>
+    <string name="fon">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="lime">Лаймовый</string>
+    <string name="pink">Розовый</string>
+    <string name="blue">Синий</string>
+    <string name="lilac">Сиреневый</string>
+</resources>
